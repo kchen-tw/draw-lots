@@ -1,0 +1,17 @@
+.btn-one {
+    background-color: #e4a1e0;
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    font-size: 20px;
+    text-align: center;
+    /* margin-top: auto; */
+    /* margin-bottom: auto; */
+    padding: auto;
+    /* margin: auto; */
+    /* margin-top: auto; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
